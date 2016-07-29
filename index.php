@@ -1,4 +1,5 @@
 <?php
+// sample lang
 /**
  * CodeIgniter
  *
